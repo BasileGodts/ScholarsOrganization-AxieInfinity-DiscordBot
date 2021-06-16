@@ -1,4 +1,4 @@
-# ScholarsOrganization - Discord bot - AXIE INFINITY
+# Scholars Organization - Axie Infinity - Discord bot
 This bot will help you to handle your scholars and organize your scholarship with Google Sheets
 
 ## Setup
