@@ -1,8 +1,8 @@
-# DiscordNewScholarsBot
+# ScholarsOrganization - Discord bot - AXIE INFINITY
 This bot will help you to handle your scholars and organize your scholarship with Google Sheets
 
 ## Setup
-1. Create your own Discord bot with https://discord.com/developers/applications/
+1. Create your own Discord bot with https://discord.com/developers/applications/ (you can use the PDP.png file as a picture's profile for your bot)
 2. Open the private_data.py file and update it with the informations of your server
 3. Install the requiered modules by running : ``pip install -r requirements.txt``
 4. Host your bot. main.py file must be defined as the execution file
