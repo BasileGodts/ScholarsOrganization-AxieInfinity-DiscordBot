@@ -21,8 +21,8 @@ This bot will help you to handle your scholars and organize your scholarship wit
 - [x] Implementing small functions as 'statistics' and 'reacting'
 - [x] Make the bot get new scholar's data
 - [x] Make the bot add this data automatically in a Google Sheets file
-- [ ] Add commentaries to all the files
-- [ ] Clarify the README.md file
+- [x] Add commentaries to all the files
+- [x] Clarify the README.md file
 
 ## Help
 If you need help or have any suggestions, please contact me on Discord: Baba#4840
